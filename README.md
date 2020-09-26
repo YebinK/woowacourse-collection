@@ -36,7 +36,6 @@
 ### 레벨 3. 팀 프로젝트
 - [도란도란](https://dorandoran.io)
   - 위치 기반 소통 커뮤니티
-  - 역할 : 백엔드, 프론트엔드, 인프라, 기획
   - [Repository](https://github.com/woowacourse-teams/2020-doran-doran)
   - [팀 노션](https://www.notion.so/ellyspace/by-GrassHouse-d46650e173d347e89089bfd88ad1be66)
 
@@ -45,3 +44,8 @@
   - [우아한형제들 기술블로그](https://woowabros.github.io/techcourse/2020/08/28/techcourse-level3-retrospective.html)에도 등재되었습니다.
 
 <br/>
+
+### 사이드 프로젝트
+- [이만 머지할게요.](https://github.com/PEACH-BROS/lets-merge)
+  - 우아한테크코스 크루들 간의 상호 코드리뷰 서비스
+  - 개발 진행 중
