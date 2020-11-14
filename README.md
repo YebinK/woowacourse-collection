@@ -49,7 +49,7 @@
 
 | 미션                    | 코드                                                         | PR 링크                                                      |
 | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1. 웹 서버 구현         | [jwp-was](https://github.com/woowacourse/jwp-was/tree/yebink) | [1차](https://github.com/woowacourse/jwp-was/pull/96/files) [2차](https://github.com/woowacourse/jwp-was/pull/171) |
+| 1. 웹 서버 구현         | [jwp-was](https://github.com/woowacourse/jwp-was/tree/yebink) | [1차](https://github.com/woowacourse/jwp-was/pull/96/files) [2차](https://github.com/woowacourse/jwp-was/pull/171) [3차](https://github.com/woowacourse/jwp-was/pull/189) |
 | 2. 점진적인 리팩토링         | [jwp-refactoring](https://github.com/woowacourse/jwp-refactoring/tree/yebink) | [1차](https://github.com/woowacourse/jwp-refactoring/pull/30) |
 
 <br/><br/>
