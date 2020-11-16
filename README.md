@@ -52,6 +52,10 @@
 | 1. 웹 서버 구현         | [jwp-was](https://github.com/woowacourse/jwp-was/tree/yebink) | [1차](https://github.com/woowacourse/jwp-was/pull/96/files) [2차](https://github.com/woowacourse/jwp-was/pull/171) [3차](https://github.com/woowacourse/jwp-was/pull/189) |
 | 2. 점진적인 리팩토링         | [jwp-refactoring](https://github.com/woowacourse/jwp-refactoring/tree/yebink) | [1차](https://github.com/woowacourse/jwp-refactoring/pull/30) |
 
+### 글쓰기 미션 : 시작
+
+- [내가 꿈꾸는 프로그래머로서의 삶](https://github.com/YebinK/woowa-writing-2/blob/elly_level4/level4.md)
+
 <br/><br/>
 
 # 사이드 프로젝트
